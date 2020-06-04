@@ -101,7 +101,8 @@ M = pinv(M);
 
 K = dlqr(Alqr, Blqr, Qlqr, R);
 % abs(eig(Alqr-B*K))
-load CrossAction
+load eightCharPath
+load CrossShapedPath
 TFinal = 80;
 Estimator.alt.kf.Q = 5e-3;
 Estimator.alt.kf.R = 0.01;
