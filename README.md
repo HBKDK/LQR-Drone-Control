@@ -3,7 +3,7 @@ Study Control Theory and Implementation
 
 ## Description
 This repository has algorithm of drone control.
-First, you must read Control/Drone_Position_Control_with_LQR.PPTX.
+First, you must read Control/Drone_Position_Control_with_LQR.PDF.
 
 ## Requirement
 1. Parrot mambo2 Drone
